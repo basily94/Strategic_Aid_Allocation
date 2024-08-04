@@ -26,6 +26,7 @@ Outlier Analysis: Identified outliers using box plots and histograms. However, r
 
 **Bivariate Analysis**
 Correlation Matrix: Analyzed the pairwise correlations between variables to identify significant relationships. Strong correlations were found between variables such as exports and imports, total fertility rate and life expectancy, and more.
+
 **2. Hypothesis Testing**
 Hypothesis testing was conducted to validate relationships between key socio-economic variables. Here are the detailed hypothesis tests performed:
 
